@@ -18,3 +18,12 @@
   height: fit-content;
   margin-bottom: 50px;
 }
+
+.TimeSelect {
+  width: calc(100vw - 200px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  gap: 150px;
+}
